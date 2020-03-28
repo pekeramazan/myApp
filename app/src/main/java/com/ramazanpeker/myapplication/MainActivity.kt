@@ -12,7 +12,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 //test
         //test2
-        //test3test
+        //test3testchanges
 
     }
 
